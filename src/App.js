@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Player from './components/Player';
+import GameBoard from './components/GameBoard';
 
 
 export default function App() {
@@ -12,7 +13,7 @@ export default function App() {
           <Player initialName="Player 2" symbol="O"/>
         </ol>
 
-        GAME BOARD
+        <GameBoard/>
        </div>
 
        LOG
