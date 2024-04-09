@@ -11,9 +11,22 @@ export default function App() {
   const [gameTurns, setGameTurns] = useState([]);
   const [activePlayer, setActivePlayer] = useState('X');
 
-  function handleChange() {
+  function handleChange(rowIndex, colIndex) {
     setActivePlayer((curActivePlayer) => curActivePlayer === 'X' ? 'O' : 'X' );
-    setGameTurns();
+    setGameTurns(prevTurns => {
+      let currentPlayer = 'X';
+
+      if (prevTurns.length > 0 && prevTurn[0].player === 'X') {
+        currentPlayer = 'O';
+      }
+
+      const updatedTurns = [
+        { squre: {row: rowIndex, col:Index}, player: activePlayer },
+        ...prevTurns,
+      ];
+
+      return updatedTurns
+    });
   }
 
   return (
