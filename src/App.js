@@ -21,7 +21,7 @@ export default function App() {
       }
 
       const updatedTurns = [
-        { squre: {row: rowIndex, col: colIndex}, player: activePlayer },
+        { square: {row: rowIndex, col: colIndex}, player: activePlayer },
         ...prevTurns,
       ];
 
@@ -37,7 +37,9 @@ export default function App() {
           <Player initialName="Player 2" symbol="O" isActive={activePlayer === 'O'}/>
         </ol>
 
-        < GameBoard onSelectSquare  = {handleChange} activePlayerSymbol={activePlayer} />
+        < GameBoard 
+            onSelectSquare={handleChange} 
+            turns={gameTurns} />
        </div>
 
        <Log />
