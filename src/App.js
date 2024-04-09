@@ -16,16 +16,16 @@ export default function App() {
     setGameTurns(prevTurns => {
       let currentPlayer = 'X';
 
-      if (prevTurns.length > 0 && prevTurn[0].player === 'X') {
+      if (prevTurns.length > 0 && prevTurns[0].player === 'X') {
         currentPlayer = 'O';
       }
 
       const updatedTurns = [
-        { squre: {row: rowIndex, col:Index}, player: activePlayer },
+        { squre: {row: rowIndex, col: colIndex}, player: activePlayer },
         ...prevTurns,
       ];
 
-      return updatedTurns
+      return updatedTurns;
     });
   }
 
