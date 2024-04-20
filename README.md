@@ -1,7 +1,3 @@
-Sure! Below is a re-written README file for your Tic-Tac-Toe game project, incorporating emojis, enhanced formatting, links to social media, and an image. Feel free to customize it further to suit your project's style and content.
-
----
-
 # Tic-Tac-Toe Game App 🎮
 
 Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or play against yourself in this classic game of strategy.
