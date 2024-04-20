@@ -70,9 +70,9 @@ Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or 
 
 Follow us on social media for updates and more exciting projects:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdalrhman-aliyan-b0855416a/)
+- LinkedIn: [Abdulrahman Aliyan LinkedIn](https://www.linkedin.com/in/abdalrhman-aliyan-b0855416a/)
 
-- Email: [Your LinkedIn Profile](abdulrahmanaliyan@gmail.com)
+- Email: [Abdulrahman Aliyan E-mail](abdulrahmanaliyan@gmail.com)
 
 ---
 
