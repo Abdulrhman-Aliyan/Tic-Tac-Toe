@@ -26,7 +26,7 @@ Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or 
 
 - **Modern JavaScript**: Utilizing ES6+ features like arrow functions and spread syntax for efficient coding.
 
-- **CSS Styling**: Styling with custom CSS (`App.css`) to create an attractive game interface.
+- **CSS Styling**: Styling with custom CSS (`index.css`) to create an attractive game interface.
 
 - **GitHub**: Source code hosted on GitHub for version control and collaboration.
 
