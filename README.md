@@ -8,6 +8,7 @@ Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or 
 
 ![Tic-Tac-Toe App Preview](tic-tac-toe.png)
 
+
 ## Features 🌟
 
 - **Two-Player Gameplay**: Take turns with a friend placing 'X' and 'O' symbols on the game board.
@@ -17,6 +18,7 @@ Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or 
 - **Winning Detection**: The app automatically checks for winning combinations to declare a winner.
 
 - **Player Customization**: Players can personalize their names during the game.
+
 
 ## Technologies Used 🚀
 
@@ -29,6 +31,7 @@ Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or 
 - **CSS Styling**: Styling with custom CSS (`index.css`) to create an attractive game interface.
 
 - **GitHub**: Source code hosted on GitHub for version control and collaboration.
+
 
 ## How to Play 🕹️
 
@@ -49,15 +52,18 @@ Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or 
 
    Open your web browser and go to `http://localhost:3000` to play Tic-Tac-Toe!
 
+
 ## Future Enhancements 🌈
 
 - **Game Settings**: Add customizable options like board size and player names.
 
 - **Animations**: Implement smooth animations for game transitions and interactions.
 
+
 ## Contributors 🌟
 
 - [Abdulrhman Aliyan](https://github.com/Abdulrhman-Aliyan) 💻
+
 
 
 ## Connect with Us! 🌐
@@ -77,6 +83,7 @@ Feel free to contribute to this project by submitting pull requests or reporting
 ### Acknowledgments 🙏
 
 I developed this Tic-Tac-Toe game with the invaluable knowledge gained from the [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) course on Udemy, taught by Maximilian Schwarzmüller. This comprehensive course provided a solid foundation in React development, state management with Redux, and advanced React concepts, which were instrumental in building this project.
+
 
 ### Learning Reflection 🌱
 
