@@ -34,37 +34,18 @@ Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or 
 
 1\. **Clone the Repository**:
 
-   ```bash
+   git clone https://github.com/Abdulrhman-Aliyan/Tic-Tac-Toe.git
 
-   git clone https://github.com/your-username/tic-tac-toe-app.git
 
-   ```
-
-2\. **Navigate to Project Directory**:
-
-   ```bash
-
-   cd tic-tac-toe-app
-
-   ```
-
-3\. **Install Dependencies**:
-
-   ```bash
+2\. **Install Dependencies**:
 
    npm install
 
-   ```
-
-4\. **Start the Game**:
-
-   ```bash
+3\. **Start the Game**:
 
    npm start
 
-   ```
-
-5\. **Access the Game**:
+4\. **Access the Game**:
 
    Open your web browser and go to `http://localhost:3000` to play Tic-Tac-Toe!
 
@@ -73,8 +54,6 @@ Welcome to the Tic-Tac-Toe Game App built with React! Challenge your friends or 
 - **Game Settings**: Add customizable options like board size and player names.
 
 - **Animations**: Implement smooth animations for game transitions and interactions.
-
-- **AI Opponent**: Introduce an AI opponent for single-player mode.
 
 ## Contributors 🌟
 
